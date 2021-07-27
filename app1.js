@@ -1,4 +1,4 @@
-/ add some sanity
+//add some sanity
 // alert("JS linked!"); // no need no more
 
 
