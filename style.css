@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: cornflowerblue;
+  }
+  
+  header {
+    background-color: black;
+    color: purple;
+    height: 60px;
+    padding-top: 40px;
+    margin-bottom: 40px;
+  }
